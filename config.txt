@@ -13,7 +13,7 @@
             "scheduledTransferPeriod": "PT1M"
           }
         ],
-        "resourceId": "/subscriptions/e9735a76-e0fb-4c01-b485-f95afa5949d0/resourceGroups/VMSS/providers/Microsoft.Compute/virtualMachineScaleSets/Vmss"
+        "resourceId": ""
       },
       "PerformanceCounters": {
         "PerformanceCounterConfiguration": [
